@@ -11,7 +11,6 @@ Input:  {"I", "like", "good", "books", "and", "I", "cannot", "lie!"}
 
 public class ReverseStringsAndLetters {
 
-
     public static void main(String[] args) {
 
         String[] tableOfStrings = {"I", "like", "good", "books", "and", "I", "cannot", "lie!"};
